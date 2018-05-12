@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32738'
     url: http://www.gutenberg.org/2009/agents/32738
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42092#Memoirs-of-a-Surrey-LabourerA-Record-of-the-Last-Years-of-Frederick-Bettesworth
 gutenberg_issued: '2013-02-13'
 gutenberg_type: Text
 identifiers:
